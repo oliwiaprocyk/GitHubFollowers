@@ -14,3 +14,6 @@ https://user-images.githubusercontent.com/124703016/234700269-2518db6c-ccd6-48bb
 
 ### Favorites Page
 https://user-images.githubusercontent.com/124703016/234700427-ef351d81-291b-47e5-970d-55fa9b3a35aa.mp4
+
+https://user-images.githubusercontent.com/124703016/234701947-ee9ac11e-76df-4bdc-b37e-6af8405c190b.mp4
+
