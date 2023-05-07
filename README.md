@@ -1,5 +1,6 @@
 # GitHubFollowers
 GitHubFollowers is an application based on the "Example take-home project job interview" course by Sean Allen. The app is built entirely programmatically and is designed to provide a seamless viewing experience of any GitHub user's followers. It allows you to add selected users to your favorites and provides detailed information about each selected user.
+
 ## Technologies
 MVC Architecture Pattern, UIKit, UrlSession, Delegate Design Pattern, Programmatic UI, Reusable UI components.
 
